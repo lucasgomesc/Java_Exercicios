@@ -2,6 +2,9 @@ package exercicios;
 
 import javax.swing.*;
 
+/*Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e
+mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês com 30.*/
+
 public class Idade {
     public static void main(String[] args) {
         int ano, mes, dia;

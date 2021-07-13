@@ -2,6 +2,8 @@ package exercicios;
 
 import javax.swing.*;
 
+//Inserção e dois valores e depois a soma deles
+
 public class Soma {
     public static void main(String[] args) {
         double a, b, soma;

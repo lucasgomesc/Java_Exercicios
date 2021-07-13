@@ -2,6 +2,8 @@ package exercicios;
 
 import java.util.Scanner;
 
+// Cria uma rotina em Java que permita calcular a soma dos valores em um vetor de cinco elementos
+
 public class Vetor {
     public static void main(String[] args) {
         int n = 5;

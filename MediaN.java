@@ -2,6 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
+// Criação de um código que exibe a média de acordo com a quantidade de valores inseridos
 public class MediaN {
     public static void main(String[] args){
         Scanner ent = new Scanner(System.in);

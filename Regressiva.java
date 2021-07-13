@@ -2,6 +2,8 @@ package exercicios;
 
 import java.util.Scanner;
 
+//Insira um valor e será printado os numeros da contagem de forma regressiva
+
 public class Regressiva {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);

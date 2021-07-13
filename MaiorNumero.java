@@ -2,6 +2,9 @@ package exercicios;
 
 import java.util.Scanner;
 
+/*Crie uma classe java MaiorNumero que contenha um método que receba dois
+números inteiros e imprima o maior entre eles.*/
+
 public class MaiorNumero {
     public static void main(String[] args) {
         Scanner entradaA = new Scanner(System.in);

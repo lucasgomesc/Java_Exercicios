@@ -2,6 +2,8 @@ package exercicios;
 
 import javax.swing.*;
 
+// Criação de um código que exibe a média de dois valores inseridos
+
 public class Media {
     public static void main(String[] args) {
         double a, b;

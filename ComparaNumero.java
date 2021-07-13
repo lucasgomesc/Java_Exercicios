@@ -2,6 +2,10 @@ package exercicios;
 
 import java.util.Scanner;
 
+/* Crie uma classe java ComparaNumero que contenha um método que receba
+dois números e indique se são iguais ou se são diferentes. Mostre o maior e o
+menor (nesta sequência). */
+
 public class ComparaNumero {
     public static void main(String[] args) {
         Scanner entrada1 = new Scanner(System.in);
