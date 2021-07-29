@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class ValoresImpares {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        int a, b, i;
+        int a, b;
 
         System.out.println("Insira o primeiro valor: ");
         a = entrada.nextInt();
